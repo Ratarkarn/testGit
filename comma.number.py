@@ -1,2 +1,2 @@
-x = 1000
+x = int(input())
 print('{:,}'.format(x))
